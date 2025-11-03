@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "mapbox-gl/dist/mapbox-gl.css";
 
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
 All colors MUST be HSL.
@@ -287,4 +288,5 @@ All colors MUST be HSL.
 .transition-smooth {
   transition: all 0.3s ease-in-out;
 }
+
 

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "muse001",
+    "name": "Museum of Modern Art",
+    "location": "New York, USA",
+    "map_url": "https://www.moma.org/visit/guide/map",
+    "thumbnail": "/museums/usa.jpg"
+  },
+  {
+    "id": "muse002",
+    "name": "Louvre Museum",
+    "location": "Paris, France",
+    "map_url": "https://api-www.louvre.fr/sites/default/files/2024-06/Web%20-%20EN%20%20LOUVRE_PlanG%20-%2004-2024.pdf",
+    "thumbnail": "/museums/paris.jpg"
+  },
+  {
+    "id": "muse003",
+    "name": "Uffizi Gallery",
+    "location": "Florence, Italy",
+    "map_url": "https://www.datocms-assets.com/103094/1749463049-brochure_uffizi_web_english_june-2025.pdf",
+    "thumbnail": "/museums/italy.jpg"
+  },
+  {
+    "id": "muse004",
+    "name": "British Museum",
+    "location": "London, UK",
+    "map_url": "https://www.britishmuseum.org/sites/default/files/2025-10/British_Museum_map.pdf",
+    "thumbnail": "/museums/britain.jpg"
+  }
+]
